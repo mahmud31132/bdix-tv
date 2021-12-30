@@ -140,6 +140,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" , SONY HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony Max HD (Dish Home Nepal) 
+http://183.178.58.115:8027/0.m3u8
 #EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema
