@@ -182,12 +182,18 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
 https://live.hungama.com/linear/kadak-hits/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="New Logo" , Pop Pataka Music
 https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="New Logo" , Colors HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Colors_TV_Logo.jpg" , Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" , ZEE TV HD (pk)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Colors_TV_Logo.jpg" , Colors HD
+http://208.86.19.21:80/605.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" , ZEE TV HD (1)
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" , Star Plus (pk)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" , ZEE TV HD (NEW)
+http://208.86.19.21:80/606.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" , Star Plus (WORKED)
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" , Star Plus HD
+http://208.86.19.21:80/607.stream/index.m3u8
 #EXTINF:-1 tvg-logo="New Logo" , BBo HD
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha HD (Link Update soon)
@@ -240,8 +246,8 @@ https://mhdtvworld.co.in/red/xxxx.php?id=2006&e=.m3u8
 https://mhdtvworld.co.in/red/xxxx.php?id=1999&e=.m3u8
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" , Super Premier League
 http://cro.hockeynews.club/live/1/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" , Super Sports 1
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Colors-Cineplex-Bollywood.png/220px-Colors-Cineplex-Bollywood.png" , Color Cineplex HD
+http://208.86.19.21:80/735.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" , Super Sports 2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPnZ0d5.png" , Super Sports 3
