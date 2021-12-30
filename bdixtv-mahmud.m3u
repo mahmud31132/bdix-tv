@@ -144,7 +144,7 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 http://183.178.58.115:8027/0.m3u8
 #EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_action.png" ,Zee Action
+#EXTINF:-1 tvg-logo="https://.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-action-logo.jpg" ,Zee Action
 http://208.86.19.21:80/728.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
