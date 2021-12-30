@@ -116,8 +116,8 @@ https://cutt.ly/DeepT
 http://103.70.140.27:8080/hls/duronto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" , 11. Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" , 12. Test 
-http://tv.ebox.live/thunderbd/45/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" ,National Geographic Channel HD (Bangla)
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/35.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" ,  Ekattor TV
 http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" ,  Ekushey TV
@@ -212,7 +212,7 @@ http://208.86.19.21:80/716.stream/index.m3u8
 http://103.159.4.38:8080/IN-BANGLA-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla Link2
 http://208.86.19.21:80/906.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony AATH (Link Test)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony AATH (working)
 http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/33.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath Link2
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
@@ -426,8 +426,8 @@ http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YW4YdfC.png" , AnTV
 http://45.126.83.51/qwr9ew/s/s07/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kF4IuuV.png" , V Channel
-http://45.126.83.51/qwr9ew/s/s41/index.m3u8
+#EXTINF:-1 tvg-logo="N/A" , STAR SPORTS 1 HD 
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png" , Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qubsodb.png" , 185.Bloomberg Europe
