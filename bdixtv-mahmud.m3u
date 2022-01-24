@@ -264,9 +264,9 @@ http://172.16.215.142/hls/dis-kid.m3u8
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh_AH7Uqn6u1cQHc-vu8vKnUMCD9819PwGeYH0LV3PFx15k81kabfACh7&s=10" , Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" , Disney Channel (FPM)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" , Disney Channel (Replace soon)
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" , Discovery Kids (multitvsolution)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" , Discovery Kids (bdix)
 http://172.16.215.142/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Gubbare.jpg/revision/latest?cb=20200809181202" , GUBBARE KIDS
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
