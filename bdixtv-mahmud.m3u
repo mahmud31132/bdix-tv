@@ -29,6 +29,8 @@ https://bd.jagobd.com:44/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" , Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/zoom.jpg" , Zoom TV
+http://172.16.215.142/hls/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png",71 TV
 http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" , Asian TV 
@@ -117,7 +119,7 @@ http://103.70.140.27:8080/hls/duronto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" , 11. Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" ,National Geographic Channel HD (Bangla)
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/35.m3u8
+http://172.16.215.142/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" ,  Ekattor TV
 http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" ,  Ekushey TV
@@ -193,21 +195,21 @@ https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Colors_TV_Logo.jpg" , Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Colors_TV_Logo.jpg" , Colors HD (sun Direct)
-http://208.86.19.21:80/605.stream/index.m3u8
+http://172.16.215.142/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" , ZEE TV HD (1)
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" , ZEE TV HD (2)
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/40.m3u8
+http://172.16.215.142/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" , ZEE TV HD (NEW)
 http://208.86.19.21:80/606.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" , Star Plus (WORKED)
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" , Star Plus HD
-http://208.86.19.21:80/607.stream/index.m3u8
+http://172.16.215.142/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="New Logo" , BBo HD
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha HD (Update Link)
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/30.m3u8
+http://172.16.215.142/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha
 http://208.86.19.21:80/908.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" , Jalsha Movies HD
@@ -223,7 +225,7 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" , Colors Bangla (akamai)
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 https://i.imgur.com/HVZHZGl.png" , Colors Bangla HD(BDIX-MAHMUD)
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/66.m3u8
+http://172.16.215.142/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" , Enter 10 Bangla
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" , Peace TV
@@ -346,7 +348,7 @@ http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
 http://str24.l9574.com/503.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" , CTVN Akd Plus
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:ctvn_akd_plus_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
-#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" , Nat Geo UAE
+#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" , Nat Geo UAE (replace soon)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" , Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
