@@ -218,9 +218,9 @@ http://208.86.19.21:80/716.stream/index.m3u8
 http://103.159.4.38:8080/IN-BANGLA-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla Link2
 http://208.86.19.21:80/906.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony AATH (working)
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/33.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath Link2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony AATH (bdix)
+http://172.16.215.142/hls/Sony_Aath.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath (replace soon)
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" , Colors Bangla (akamai)
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
@@ -462,6 +462,7 @@ http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 
 
+#EXTINF:-1 tvg-logo="xx" group-title="more channel link will be fix soon !! ",
 
 _________Sports Update_______
 #EXTINF:-1 tvg-logo="xx" group-title="M3U FILE BY Mahmud",
