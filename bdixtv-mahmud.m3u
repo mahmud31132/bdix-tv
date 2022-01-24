@@ -330,12 +330,10 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8?
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/86jLO7q.png" , Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gcdn.pbrd.co/images/Ed72iry39VIg.png" , Animal Planet Hindi (jio)
-http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" , Discovery HD (multitvsolution)
-https://idvd.multitvsolution.com/idvo/discoveryhd_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" , Discovery Bangla
-https://cutt.ly/Discovere_b
+#EXTINF:-1 tvg-logo="https://gcdn.pbrd.co/images/Ed72iry39VIg.png" , Animal Planet Hindi (bdix)
+http://172.16.215.142/hls/animalplanent.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" , Discovery HD BANGLA (bdix)
+http://172.16.215.142/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" , Discovery Hindi (multitvsolution)
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" , NASA TV (akamai)
