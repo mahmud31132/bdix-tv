@@ -144,7 +144,7 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 http://172.16.215.142/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/utv-action-logo-1.jpg" ‚ UTV Action
 http://172.16.215.142/hls/utvaction.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/bindass.jpeg" ‚ Bindass
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/bindass.jpeg" , BINDASS 
 http://172.16.215.142/hls/bindass.m3u8
 #EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony Max HD (Sun Direct) 
 http://172.16.215.142/hls/sony-maxhd.m3u8
@@ -152,12 +152,12 @@ http://172.16.215.142/hls/sony-maxhd.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-action-logo.jpg" ,Zee Action
 http://208.86.19.21:80/728.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema (soon fix)
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/76.m3u8
+http://172.16.215.142/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" , Sony Pal
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6626/index.m3u8
 #EXTINF:-1 tvg-logo="http://boxcinemedia.com/assets/img/logo.png" , Box Cinema
