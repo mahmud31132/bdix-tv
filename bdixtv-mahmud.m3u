@@ -218,9 +218,9 @@ http://172.16.215.142/hls/jalshamovies.m3u8
 http://172.16.215.142/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla Link2 ,(replace soon)
 http://208.86.19.21:80/906.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony AATH (bdix)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony AATH (UPDATE)
 http://172.16.215.142/hls/Sony_Aath.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath (replace soon)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath (Alternative link added soon)
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" , Colors Bangla (bdix)
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
