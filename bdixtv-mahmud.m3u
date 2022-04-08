@@ -142,7 +142,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" , SONY HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" , SONY HD (BDIX)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" , SONY SET HD (FTP SERVER)
 http://172.16.215.142/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/utvaction.jpg" , UTV ACTION (BDIX)
 http://172.16.215.142/hls/utvaction.m3u8
