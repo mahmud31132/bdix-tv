@@ -255,7 +255,7 @@ https://tvstream.space/jtv/xxjjj.php?c=Ten3_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" , Sony Six HD (FPM)
 https://tvstream.space/jtv/xxjjj.php?c=Six_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 1 HD
-https://mhdtvworld.co.in/red/xxxx.php?id=2006&e=.m3u8
+http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 2 HD
 https://mhdtvworld.co.in/red/xxxx.php?id=1999&e=.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" , Cartoon Network Hindi (bdix)
