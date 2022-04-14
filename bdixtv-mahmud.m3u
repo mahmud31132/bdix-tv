@@ -254,7 +254,7 @@ https://tvstream.space/jtv/xxjjj.php?c=Ten2_HD&=800&e=.m3u8
 https://tvstream.space/jtv/xxjjj.php?c=Ten3_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" , Sony Six HD (FPM)
 https://tvstream.space/jtv/xxjjj.php?c=Six_HD&=800&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 1 HD (Fixed)
 http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 2 HD
 https://mhdtvworld.co.in/red/xxxx.php?id=1999&e=.m3u8
