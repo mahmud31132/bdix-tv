@@ -220,8 +220,8 @@ http://172.16.215.142/hls/zeebanglahd.m3u8
 http://208.86.19.21:80/906.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony AATH (UPDATE)
 http://172.16.215.142/hls/Sony_Aath.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath (Alternative link added soon)
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath (backup)
+http://103.55.144.46/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" , Colors Bangla (bdix)
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 https://i.imgur.com/HVZHZGl.png" , Colors Bangla HD(BDIX-MAHMUD)
@@ -260,14 +260,18 @@ http://103.55.144.46/hls/stersports1hd.m3u8
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" , Cartoon Network Hindi (bdix)
 http://live.flixhub.net/hls/cn.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" , Cartoon Network Hindi (backup)
+http://103.55.144.46/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" , Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh_AH7Uqn6u1cQHc-vu8vKnUMCD9819PwGeYH0LV3PFx15k81kabfACh7&s=10" , Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" , Disney Channel (Replace soon)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" , Disney Channel (Not Found)
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" , Discovery Kids (bdix)
 http://172.16.215.142/hls/dis-kid.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" , Discovery Kids Backup link
+http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Gubbare.jpg/revision/latest?cb=20200809181202" , GUBBARE KIDS
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" , Sony Yay (jio)
@@ -278,8 +282,12 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" , Pogo (bdix)
 http://172.16.215.142/hls/pogo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" , Pogo (Backup)
+http://103.55.144.46/hls/pogo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick 
 http://172.16.215.142/hls/nick.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick (backup)
+http://103.55.144.46/hls/nick.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332" , 9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/t4j8hjhh" , 9X Jalwa
