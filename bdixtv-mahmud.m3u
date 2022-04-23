@@ -266,8 +266,8 @@ http://103.55.144.46/hls/stersports1hd.m3u8
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" , Cartoon Network Hindi (bdix)
 http://live.flixhub.net/hls/cn.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" , Cartoon Network Hindi (backup)
-http://103.55.144.46/hls/cn.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" , Cartoon Network Hindi (backup)
+http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" , Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh_AH7Uqn6u1cQHc-vu8vKnUMCD9819PwGeYH0LV3PFx15k81kabfACh7&s=10" , Akaram Kidz
@@ -276,26 +276,26 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" , Discovery Kids (bdix)
 http://172.16.215.142/hls/dis-kid.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" , Discovery Kids Backup link
-http://103.55.144.46/hls/dis-kid.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Gubbare.jpg/revision/latest?cb=20200809181202" , GUBBARE KIDS
-https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" , Discovery_Kids_2
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Kids_2&q=600&e=.m3u8
+#EXTINF:-1 tvg-logo="hhttp://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" , Nick_Junior
+http://jo123.biz/jweb/m3u8.php?c=Nickelodeon_Jr&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" , Sony Yay (jio)
 http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xeanFZ7.png" , Aniplus
-http://45.126.83.51/dr9445/h/h02/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" , Animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" , 9X_Jalwa
+http://jo123.biz/jweb/m3u8.php?c=9X_Jalwa&q=250&e=.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" , MTV_HD_Plus
+http://jo123.biz/jweb/m3u8.php?c=MTV_HD_Plus&q=250&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" , Pogo (bdix)
 http://172.16.215.142/hls/pogo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" , Pogo (Backup)
-http://103.55.144.46/hls/pogo.m3u8
-#EXTINF:-1 tvg-logo="http://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" , Nick 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" , Pogo_Hindi
+http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" , Nick_Bangla
 http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="http://snoidcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" , Nick Hindi
 http://jo123.biz/jweb/m3u8.php?c=Nick_Hindi&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="http://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" , Nick (backup)
-http://103.55.144.46/hls/nick.m3u8
+http://172.16.215.142/hls/nick.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332" , 9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/t4j8hjhh" , 9X Jalwa
@@ -340,14 +340,14 @@ http://jo123.biz/jweb/m3u8.php?c=Discovery_Turbo&q=250&e=.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_SD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" , Sony_BBC_Earth_HD_English
 http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD_English&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/alJj9sb.jpg" , Boogle Bollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" , TLC_English
+http://jo123.biz/jweb/m3u8.php?c=TLC_English&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/mn+.jpg" , MN+ HD
 http://103.55.144.46/hls/mn+.m3u8?
-#EXTINF:-1 tvg-logo="http://103.55.144.46/img/tlc.jpeg" , TLC 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" , TLC_English
 http://103.55.144.46/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/movies-now.jpg" , Movies Now HD
-http://103.55.144.46/hls/movies-now.m3u8
+http://172.16.215.142/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/animalplanent.jpg" , Animal Planet Hindi (bdix)
 http://103.55.144.46/hls/animalplanent.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" , Discovery HD BANGLA (bdix)
@@ -364,8 +364,8 @@ https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" , History Channel Hindi (jio)
 http://jo123.biz/jweb/m3u8.php?c=History_18_Hindi&q=600&e=junk.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png" , Sony BBC Earth (FPM)
-
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" , Sony_BBC_Earth_SD
+http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_SD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" , Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" , Al Jazeera
@@ -386,8 +386,8 @@ https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" , MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
-#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" , Peace TV English
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" , Sony_BBC_Earth_HD_English
+http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD_English&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" , Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" , Al Fajer Movie
