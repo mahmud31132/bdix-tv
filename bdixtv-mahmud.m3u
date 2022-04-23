@@ -150,12 +150,12 @@ http://172.16.215.142/hls/sonyen.m3u8
 http://172.16.215.142/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/bindass.jpeg" , BINDASS 
 http://172.16.215.142/hls/bindass.m3u8
-#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony Max HD (Sun Direct) 
+#EXTINF:-1 tvg-logo="http://sldhncdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" , Sony Max HD (FTP) 
 http://172.16.215.142/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony Max HD
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-action-logo.jpg" ,Zee Action
-http://208.86.19.21:80/728.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony Max SD
+http://jo123.biz/jweb/m3u8.php?c=Sony_Max_SD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sagraecdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" ,Zee Action
+http://jo123.biz/jweb/m3u8.php?c=Zee_Action&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema (soon fix)
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema HD
@@ -184,18 +184,20 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" , Masti TV
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" , Hungama Digital (Hungama)
-https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony MAX (pk)
-http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" , Masti TV (jio)
+http://jo123.biz/jweb/m3u8.php?c=Mastiii&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sagraecdnems10.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" , E24
+http://jo123.biz/jweb/m3u8.php?c=E_24&q=250&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sldhncdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD" , Sony MAX (jio)
+http://jo123.biz/jweb/m3u8.php?c=Sony_Max_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Hungama_Play?file=HungamaPlay.png" , Hungama Music
 https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.imgur.com/LeIa06D.png" , ABP Anando
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" , MTV Beats HD
+http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/B4U_Kadak?file=B4U_Kadak.jpeg" , Kadak Music
 https://live.hungama.com/linear/kadak-hits/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="New Logo" , Pop Pataka Music
-https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" , I Love
+http://jo123.biz/jweb/m3u8.php?c=iLove&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Colors_TV_Logo.jpg" , Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Colors_TV_Logo.jpg" , Colors HD (sun Direct)
@@ -288,9 +290,11 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 http://172.16.215.142/hls/pogo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" , Pogo (Backup)
 http://103.55.144.46/hls/pogo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick 
+#EXTINF:-1 tvg-logo="http://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" , Nick 
 http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick (backup)
+#EXTINF:-1 tvg-logo="http://snoidcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" , Nick Hindi
+http://jo123.biz/jweb/m3u8.php?c=Nick_Hindi&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="http://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" , Nick (backup)
 http://103.55.144.46/hls/nick.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332" , 9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
@@ -313,29 +317,29 @@ http://103.55.144.46/hls/starmovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" , HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/sonypixhd.jpg" , PIX HD
-http://103.55.144.46/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" , Nobodip TV
-http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,  52 TV
-http://str24.l9574.com/503.stream/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" , CTVN Akd Plus
-http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:ctvn_akd_plus_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
-#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" , Nat Geo UAE (replace soon)
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" , Love Nature
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" , Zee Smile
-http://priyankjivani.ml/?c=0-9-zeebanglacinema
+http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&q=400&e=.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" , Sony Pix 
+http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_SD&q=400&e=.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" ,Colors_Infinity_SD
+http://jo123.biz/jweb/m3u8.php?c=Colors_Infinity_SD&q=250&e=.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" , Colors Infinity_HD 
+http://jo123.biz/jweb/m3u8.php?c=Colors_Infinity_SD&q=250&e=.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" , Comedy_Central_SD 
+http://jo123.biz/jweb/m3u8.php?c=Comedy_Central_SD&q=250&e=.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" , Comedy_Central_HD
+http://jo123.biz/jweb/m3u8.php?c=Comedy_Central_HD&q=250&e=.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" , Discovery_Science
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Science&q=400&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" , Sony Max 2
 http://62.210.99.88:25461/carter/GUV1bMq2VK/197?token=TURYAhZYEAwSAQJWWgUCWlZaBl4AWAEPUwtSVFFfUQRQVAFSVAEHUgNGTxBLF0AGVA9uD1IbCQcIBEgXE0oDF2kPVEFfEgAEAVZRAxpPEBdcD1REDAgFBQYCUwVfDlJJFBZZB0cKEAcFV1sLGk8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0ABRBobWkVBEV5bE1UKSRQEWRcXUUZTEl5BCwpREE8XAV4TWE1BTxMJRnciG0pHUx5EBgtDW1leRlkQTBAQTxcLQjlEXEBCQ1YFWANLRF8UVxJPR11TTm8HDFxWBlEXXA1fFRQDEQMBEUgXC1YIDEIJQjwVWVYUCkZSBwtVC0FI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" , MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Public_Music_Kannada_Channel_Logo.jpg/200px-Public_Music_Kannada_Channel_Logo.jpg" , Public Music
-http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" , Kadak Hits
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDmgJeM34DwUJKQC4cLTxR3YJyml-lx3xOA2HOmpxpkaDQ3pN&usqp=CAU" , Dil Se
-https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" , Discovery_Turbo
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Turbo&q=250&e=.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" , Sony_BBC_Earth_SD
+http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_SD&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" , Sony_BBC_Earth_HD_English
+http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD_English&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alJj9sb.jpg" , Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/mn+.jpg" , MN+ HD
