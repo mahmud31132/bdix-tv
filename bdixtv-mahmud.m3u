@@ -213,7 +213,7 @@ http://208.86.19.21:80/606.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" , Star Plus HD (TEST)
 http://tv.ebox.live:8081/thunderbd/67/chunks.m3u8?nimblesessionid=25601539&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDIyIDg6MzA6MjIgQU0maGFzaF92YWx1ZT1SQVB4dlo5YW5ZUlNOcC90akZ1OThnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" , Star Plus HD (soon)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" , Star Plus HD (fix soon)
 http://172.16.215.142/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="New Logo" , BBo HD
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
