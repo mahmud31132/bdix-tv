@@ -210,10 +210,13 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 http://172.16.215.142/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" , ZEE TV HD (NEW)
 http://208.86.19.21:80/606.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" , Star Plus HD (TEST)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" , Star Plus HD (soon)
 http://tv.ebox.live:8081/thunderbd/67/chunks.m3u8?nimblesessionid=25601539&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDIyIDg6MzA6MjIgQU0maGFzaF92YWx1ZT1SQVB4dlo5YW5ZUlNOcC90akZ1OThnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" , Star Plus HD (fix soon)
+#EXTINF:- tvg-logo="" , Star Gold HD
+http://103.55.144.46/hls/stargold.m3u8
+#EXTINF:-1 tvg-logo="" , Star Gold 2 
+http://103.55.144.46/hls/stargold2hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" , Star Plus HD (ftp)
 http://172.16.215.142/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="New Logo" , BBo HD
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
