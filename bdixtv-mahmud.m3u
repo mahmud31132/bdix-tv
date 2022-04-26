@@ -175,7 +175,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/10/Maha-movie.png" , Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="http://sagraecdnems10.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" , Sonic_Bangla
-
+http://jo123.biz/jweb/m3u8.php?c=Sonic_Bangla&q=400&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sldhncdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png"  , Sonic hindi
 http://jo123.biz/jweb/m3u8.php?c=sonic_Hindi&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" , Manoranjan Movies
