@@ -228,8 +228,8 @@ http://208.86.19.21:80/908.stream/index.m3u8
 http://172.16.215.142/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD (bdix)
 http://172.16.215.142/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla Link2 ,(replace soon)
-http://208.86.19.21:80/906.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla Link2 ,(test)
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony AATH (UPDATE)
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath (backup)
