@@ -103,7 +103,7 @@ http://172.16.215.142/hls/stersports1hd.m3u8
 http://172.16.215.142/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyten3.jpg" ,Sony TEN 3 HD
 http://172.16.215.142/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/select2.jpg" ,Select 2 HD
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/select2.jpg" ,Star Sports Select 2 HD
 http://172.16.215.142/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sony_ten_2.jpg" ,Sony Ten 2
 http://172.16.215.142/hls/sonyten2.m3u8
@@ -111,25 +111,25 @@ http://172.16.215.142/hls/sonyten2.m3u8
 http://172.16.215.142/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/tsports.jpg" ,T sports
 http://172.16.215.142/hls/t-sports.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/ten_sports.jpg" ,Ten sports
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/ten_sports.jpg" ,Ten sports pak
 http://172.16.215.142/hls/ten.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/ptv.jpg" ,PTV
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/ptv.jpg" ,PTV Sports 
 http://172.16.215.142/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis-kid.png" ,Discovery  Kids
 http://172.16.215.142/hls/dis-kid.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/nick.jpg" ,Nick bangla
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/nick.jpg" ,Nick
 http://172.16.215.142/hls/nick.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/cn.png" ,Cartoon Network
 http://172.16.215.142/hls/cn.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/pogo.jpg" ,pogo
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/pogo.jpg" ,Pogo
 http://172.16.215.142/hls/pogo.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/madani.jpg" ,Madani tv
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/madani.jpg" ,Madani tv Bangla
 http://172.16.215.142/hls/madani.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/quraantv.jpg" ,Quraan tv
 http://172.16.215.142/hls/qurqntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" , Jamuna News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" , Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" , Sangeet Bangla (Loud Volume) 
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" ,  Channel 24
@@ -140,11 +140,14 @@ https://piratesiptv.shortcm.li/channel9.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" ,  Anando Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" ,  RTV BD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" ,  RTV BD HD
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/PbGS418.png” , News 24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo=”https://m.imgur.com/bahWhBG?r.png” , MY TV Bangla
+#EXTINF:-1 tvg-logo=”https://m.imgur.com/bahWhBG?r.png” , My Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" ,  Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+EXTINF:-1 tvg-logo="Logo" ,Coming soon!
+http://test.com
