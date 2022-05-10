@@ -41,8 +41,8 @@ http://172.16.215.142/hls/bbcearth.m3u8
 http://172.16.215.142/hls/mn+.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/animalplanent.jpg" ,Animal Planet
 http://172.16.215.142/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis.png" , Discovery HD
-http://172.16.215.142/hls/discovery.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis.png" , very HD
+http://172.16.215.142/hls/very.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/Nat_Geo_HD.png" ,ngohd
 http://172.16.215.142/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/tlc.jpeg" ,TLC HD
@@ -91,7 +91,7 @@ http://172.16.215.142/hls/stargold.m3u8
 http://172.16.215.142/hls/dhin.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/9xm.png" ,9XM
 http://172.16.215.142/hls/9xm.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/Sony-six-hd.png" ,Sony Six 
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/Sony-six-hd.png" ,Sony Six HD
 http://172.16.215.142/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/euro.jpg" ,Eurosports
 http://172.16.215.142/hls/euro.m3u8
@@ -115,7 +115,7 @@ http://172.16.215.142/hls/t-sports.m3u8
 http://172.16.215.142/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/ptv.jpg" ,PTV Sports 
 http://172.16.215.142/hls/ptv.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis-kid.png" ,Discovery  Kids
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis-kid.png" ,Sony yay
 http://172.16.215.142/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/nick.jpg" ,Nick
 http://172.16.215.142/hls/nick.m3u8
