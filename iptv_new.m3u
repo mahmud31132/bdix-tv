@@ -115,7 +115,7 @@ http://172.16.215.142/hls/t-sports.m3u8
 http://172.16.215.142/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/ptv.jpg" ,PTV Sports 
 http://172.16.215.142/hls/ptv.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis-kid.png" ,Sony yay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" ,Sony yay
 http://172.16.215.142/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/nick.jpg" ,Nick
 http://172.16.215.142/hls/nick.m3u8
@@ -149,5 +149,5 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" ,  Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-EXTINF:-1 tvg-logo="Logo" ,Coming soon!
-http://test.com
+EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis-kid.png" ,Discovery kids
+http://soon
