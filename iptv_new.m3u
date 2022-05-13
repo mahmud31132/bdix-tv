@@ -151,5 +151,5 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis-kid.png" ,Discovery kids
 http://soon
-EXTINF:-1 tvg-logo="http://172.16.215.142/img/starmovies.jpg" ,Star Movies (New server)
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/starmovies.jpg" ,Star Movies (New server)
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
