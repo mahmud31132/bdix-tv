@@ -41,8 +41,8 @@ http://172.16.215.142/hls/bbcearth.m3u8
 http://172.16.215.142/hls/mn+.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/animalplanent.jpg" ,Animal Planet
 http://172.16.215.142/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis.png" , very HD
-http://172.16.215.142/hls/very.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis.png" ,Discovery HD
+http://103.55.144.46/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/Nat_Geo_HD.png" ,ngohd
 http://172.16.215.142/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/tlc.jpeg" ,TLC HD
@@ -151,3 +151,4 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis-kid.png" ,Discovery kids
 http://soon
+EXTINF:-1 tvg-logo
