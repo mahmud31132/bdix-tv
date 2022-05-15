@@ -133,7 +133,7 @@ http://172.16.215.142/hls/t-sports.m3u8
 http://172.16.215.142/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/ptv.jpg" ,PTV Sports 
 http://172.16.215.142/hls/ptv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" , disneychannelhindi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" , disney channel hindi
 http://nayeem-airteltv.ddns.net:8000/play/a01y/index.m3u8
 EXTINF:-1 tvg-logo="" , Backup link
 https://snehtv-may-02.in1.bitmana.io/স্নেহাপি/rapidx/rapid/disneychannelhindi.m3u8
