@@ -17,7 +17,7 @@ http://172.16.215.142/hls/channeli.m3u8
 http://172.16.215.142/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/somoytv.jpg" ,Somoy Tv
 http://172.16.215.142/hls/somoy.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" , Jamuna News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" , Jamuna News (test)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/520px-My_TV_Logo.svg.png" ,My TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
