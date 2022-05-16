@@ -43,7 +43,7 @@ http://172.16.215.142/hls/zee-bangla-cinema.m3u8
 http://172.16.215.142/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/jalsha_movies.jpg" , Jalsha Movies HD
 http://172.16.215.142/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/colorsbangla.jpg" ,Colors Bangla
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/colorsbangla.jpg" ,Colors Bengali HD
 http://172.16.215.142/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/zeebanglahd.jpg" , Zee bangla
 http://172.16.215.142/hls/zeebanglahd.m3u8
@@ -85,7 +85,7 @@ http://172.16.215.142/hls/utvaction.m3u8
 http://172.16.215.142/hls/zoom.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/andpictures-hd.jpg" ,And Picture HD
 http://172.16.215.142/hls/andpictures.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/colors-tv-hd.jpg" , Colors TV HD
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/colors-tv-hd.jpg" , Colors HD
 http://172.16.215.142/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/zeecinemahd.jpg" ,Zee Cinema HD
 http://172.16.215.142/hls/zeecinemahd.m3u8
