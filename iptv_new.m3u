@@ -59,9 +59,9 @@ http://172.16.215.142/hls/starmovies.m3u8
 http://172.16.215.142/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/mn+.jpg" ,MN+ 
 http://172.16.215.142/hls/mn+.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/animalplanent.jpg" ,Animal Planet
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/animalplanent.jpg" ,Animal Planet HD World
 http://172.16.215.142/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis.png" ,Discovery HD
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis.png" ,Discovery HD World
 http://103.55.144.46/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/Nat_Geo_HD.png" ,ngohd
 http://172.16.215.142/hls/ngohd.m3u8
