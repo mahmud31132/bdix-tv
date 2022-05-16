@@ -148,7 +148,7 @@ https://snehtv-may-02.in1.bitmana.io/snehapi/rapidx/rapid/hungamahindi.m3u8
 http://172.16.215.142/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/nick.jpg" ,Nick Hindi
 http://172.16.215.142/hls/nick.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/cn.png" ,Cartoon Network
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/cn.png" ,Cartoon Network Hindi
 http://172.16.215.142/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/pogo.jpg" ,Pogo Hindi
 http://172.16.215.142/hls/pogo.m3u8
