@@ -83,7 +83,7 @@ http://172.16.215.142/hls/bindass.m3u8
 http://172.16.215.142/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/zoom.jpg" ,Zoom
 http://172.16.215.142/hls/zoom.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/andpictures-hd.jpg" ,& Picture HD
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/andpictures-hd.jpg" ,And Picture HD
 http://172.16.215.142/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/colors-tv-hd.jpg" , Colors TV HD
 http://172.16.215.142/hls/colore-tv-hd.m3u8
