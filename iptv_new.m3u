@@ -159,7 +159,5 @@ http://172.16.215.142/hls/qurqntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" , Sangeet Bangla (Loud Volume) 
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
-EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis-kid.png" ,Discovery kids
-http://soon
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/starmovies.jpg" ,Star Movies HD
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
