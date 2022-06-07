@@ -143,10 +143,7 @@ http://172.16.215.142/hls/t-sports.m3u8
 http://172.16.215.142/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/ptv.jpg" ,PTV Sports 
 http://172.16.215.142/hls/ptv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" ,Disney Hindi
-https://snehtv-may-02.in1.bitmana.io/snehapi/rapidx/rapid/disneychannelhindi.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/2433px-Hungama_TV.svg.png" ,Hungama TV
-https://snehtv-may-02.in1.bitmana.io/snehapi/rapidx/rapid/hungamahindi.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" ,Sony Yay!
 http://172.16.215.142/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/nick.jpg" ,Nick Hindi
