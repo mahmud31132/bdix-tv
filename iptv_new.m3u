@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY HD
+http://172.16.215.142/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/indepen.png" group-title="Bangladeshi" , Independent tv
 http://172.16.215.142/hls/indepen.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sunbangla.jpg" , SUN BANGLA 
