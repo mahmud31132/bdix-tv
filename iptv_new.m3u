@@ -140,7 +140,7 @@ http://172.16.215.142/hls/sonyten2.m3u8
 http://172.16.215.142/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/tsports.jpg" ,T sports
 http://172.16.215.142/hls/t-sports.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/ten_sports.jpg" ,Ten sports pak
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/ten_sports.jpg" ,Ten Sports HD PK
 http://172.16.215.142/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/ptv.jpg" ,PTV Sports 
 http://172.16.215.142/hls/ptv.m3u8
