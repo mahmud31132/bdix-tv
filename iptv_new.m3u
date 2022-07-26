@@ -101,6 +101,7 @@ http://172.16.215.142/hls/sonymax.m3u8
 http://172.16.215.142/hls/stargold2hd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY HD
 http://172.16.215.142/hls/sonyen.m3u8
+
 EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY-HD-LOCKLE
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY HD
