@@ -7,11 +7,11 @@ http://103.179.246.243:8000/play/a05p
 http://103.179.246.243:8000/play/a022
 #EXTINF:-1 tvg-id="21" group-title="Kids" tvg-logo="",Nick jr
 http://103.179.246.243:8000/play/a023
-#EXTINF:-1 tvg-id="20" group-title="Kids" tvg-logo="",Khushi tv
+#EXTINF:-1 tvg-id="20" group-title="Kids" tvg-logo="",Khushi tv (not available)
 http://103.179.246.243:8000/play/a05g
 #EXTINF:-1 tvg-id="19" group-title="Kids" tvg-logo="",Disney junior
 http://103.179.246.243:8000/play/a020
-#EXTINF:-1 tvg-id="02" group-title="Backup " tvg-logo="",Disney channel
+#EXTINF:-1 tvg-id="02" group-title="Backup " tvg-logo="",Disney
 http://103.179.246.243:8000/play/a01y
 #EXTINF:-1 tvg-id="01" group-title="Backup " tvg-logo="",Cartoon network
 http://103.179.246.243:8000/play/a01w
