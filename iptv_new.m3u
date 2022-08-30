@@ -104,18 +104,18 @@ http://172.16.215.142/hls/zeecinemahd.m3u8
 http://172.16.215.142/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/colorscineplex.jpg" , Cineplex hd
 http://172.16.215.142/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonymax.png" ,Sony Max (offline)
+EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonymax.png" ,Sony Max (offline)
 http://172.16.215.142/hls/sonymax.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/stargold2hd.png" ,Star Gold 2
 http://172.16.215.142/hls/stargold2hd.m3u8
 
 EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY-HD-LOCKLE
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY HD
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sony-maxhd.jpg" ,Sony max hd
 http://172.16.215.142/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/sony-maxhd.jpg" ,Sony max hd
+EXTINF:-1 tvg-logo="http://172.16.215.142/img/sony-maxhd.jpg" ,Sony max hd
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/zeetv.png" ,ZEE TV
 http://172.16.215.142/hls/zeetv.m3u8
@@ -189,3 +189,27 @@ http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg",Romedy Now HD
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
+
+#EXTINF:-1 tvg-logo="soon" ,Super Hungama
+http://103.151.43.102:8000/play/a062/index.m3u8
+#EXTINF:-1 tvg-logo="soon" , Hungama
+http://103.151.43.102:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-logo="soon" , Sonic
+http://103.151.43.102:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="soon" ,Pogo
+http://103.151.43.102:8000/play/a03q/index.m3u8
+#EXTINF:-1 tvg-logo="soon" , Disney
+http://103.151.43.102:8000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-logo=""ext , Discovery Kids
+http://103.151.43.102:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="soon" , Disney Jr
+http://103.151.43.102:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvtvg-logo="soon" ,Cartoon Network
+http://103.151.43.102:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-logo="soon" ,Nick
+http://103.151.43.102:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-logo="soon" , Nick Jr
+http://103.151.43.102:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="soon" ,Nick HD+ 
+http://103.151.43.102:8000/play/a03f/index.m3u8
+
