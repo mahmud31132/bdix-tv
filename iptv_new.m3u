@@ -81,12 +81,19 @@ http://172.16.215.142/hls/mnx-hd.m3u8
 http://172.16.215.142/hls/bbcworld.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/aljazeera.jpg" ,aljazeera
 http://172.16.215.142/hls/aljazeera.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/bindass.jpeg" ,Bindass
-http://172.16.215.142/hls/bindass.m3u8
+
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/utvaction.jpg" ,UTV ACTION
 http://172.16.215.142/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/zoom.jpg" ,Zoom
 http://172.16.215.142/hls/zoom.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/masti.jpg" ,Maasti 
+http://172.16.215.142/hls/masti.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/9xm.png" ,9XM
+http://172.16.215.142/hls/9xm.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/bindass.jpeg" ,Bindass
+http://172.16.215.142/hls/bindass.m3u8
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU",Music India(BD2)
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/andpictures-hd.jpg" ,And Picture HD
 http://172.16.215.142/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/colors-tv-hd.jpg" , Colors HD
@@ -118,8 +125,7 @@ http://172.16.215.142/hls/dis-science.m3u8
 http://172.16.215.142/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/dhin.jpg" ,DhinChak
 http://172.16.215.142/hls/dhin.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/9xm.png" ,9XM
-http://172.16.215.142/hls/9xm.m3u8
+
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/Sony-six-hd.png" ,Sony Six HD
 http://172.16.215.142/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/euro.jpg" ,Eurosports
@@ -160,30 +166,26 @@ http://172.16.215.142/hls/qurqntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" , Sangeet Bangla (Loud Volume) 
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/starmovies.jpg" ,Info Channel 001
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/starmovies.jpg" , Live Channel 
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:- tvg-logo="https://i.imgur.com/Tp3Kead.png",Enter 10 Bangla(BD2)
+#EXTINF:- tvg-logo="https://i.imgur.com/Tp3Kead.png",Enter 10 Bangla (New )
 http://14.199.164.20:4001/play/a0j5/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png",Sangeet Bangla(BD2)
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png",Sangeet Bangla(Backup Link)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1 tvg-logo="ext" ,R Plus Gold(BD2)
-
+#EXTINF:-1 tvg-logo="ext" ,R Plus Gold
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushey TV(BD2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png",Maasranga TV(BD2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png",Maasranga TV
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1  tvg-logo="soon" ,Zee Classic 
 http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1 tvg-logo="ext",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/disney-junior.png",DISNEY JUNIOR(BD3)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/disney-junior.png",DISNEY JUNIOR
 http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg",Romedy Now HD(BD3)
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg",Romedy Now HD
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
