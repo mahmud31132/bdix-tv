@@ -19,9 +19,10 @@ http://172.16.215.142/hls/nexus.m3u8
 http://172.16.215.142/hls/channeli.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/maasranga.jpg" , Mashranga TV
 http://172.16.215.142/hls/masranga.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" ,Jamuna News
+http://172.16.215.142/hls/jamuna.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/somoytv.jpg" ,Somoy Tv
 http://172.16.215.142/hls/somoy.m3u8
-
 EXTINF:-1 tvg-logo=”http://www.hdtvlivestream.com/wp-content/uploads/2020/02/mytv-480x270.jpg" ,My TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png” , News 24 BD
@@ -64,7 +65,7 @@ http://172.16.215.142/hls/mn+.m3u8
 http://172.16.215.142/hls/animalplanent.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis.png" ,Discovery HD World
 http://172.16.215.142/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis.png" ,Discovery HD World
+EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis.png" ,Discovery HD World
 http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/Nat_Geo_HD.png" ,ngohd
 http://172.16.215.142/hls/ngohd.m3u8
