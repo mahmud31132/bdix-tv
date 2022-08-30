@@ -171,7 +171,7 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:- tvg-logo="https://i.imgur.com/Tp3Kead.png",Enter 10 Bangla (New )
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png",Sangeet Bangla(Backup Link)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+http://172.16.215.142/hls/sangeetbangla.m3u8
 
 #EXTINF:-1 tvg-logo="ext" ,R Plus Gold
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
