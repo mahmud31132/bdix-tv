@@ -88,7 +88,7 @@ http://172.16.215.142/hls/aljazeera.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/utvaction.jpg" ,UTV ACTION
 http://172.16.215.142/hls/utvaction.m3u8
-
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/utv.jpg" ,UTV Movies
 http://172.16.215.142/hls/utv.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/zoom.jpg" ,Zoom
 http://172.16.215.142/hls/zoom.m3u8
@@ -138,6 +138,8 @@ http://172.16.215.142/hls/sonysix.m3u8
 http://172.16.215.142/hls/euro.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/Star_Sports_Select_1_HD.jpg" ,Star Sports Select 1
 http://172.16.215.142/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/star_sports3.jpg" ,Star Sports 3
+http://172.16.215.142/hls/starsports3.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/stersports1hd.jpg" ,Star Sports 1 HD
 http://172.16.215.142/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/ster-sport-2hd.png" ,Star Sports 2
