@@ -19,7 +19,7 @@ http://172.16.215.142/hls/nexus.m3u8
 http://172.16.215.142/hls/channeli.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/maasranga.jpg" , Mashranga TV
 http://172.16.215.142/hls/masranga.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" ,Jamuna News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" ,Jamuna News 
 http://172.16.215.142/hls/jamuna.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/somoytv.jpg" ,Somoy Tv
 http://172.16.215.142/hls/somoy.m3u8
