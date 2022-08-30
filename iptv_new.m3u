@@ -64,7 +64,7 @@ http://172.16.215.142/hls/mn+.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/animalplanent.jpg" ,Animal Planet HD World
 http://172.16.215.142/hls/animalplanent.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis.png" ,Discovery HD World
-http://103.55.144.46/hls/discovery.m3u8
+http://172.16.215.142/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis.png" ,Discovery HD World
 http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/Nat_Geo_HD.png" ,ngohd
