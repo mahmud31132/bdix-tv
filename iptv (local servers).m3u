@@ -187,7 +187,7 @@ http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 
 [ This Line will Be Hidden Due Not working Channels ]
 
-All link Update soon!
+               All link Update soon!
 
 EXTINF:-1 tvg-logo="soon" ,Super Hungama
 http://103.151.43.102:8000/play/a062/index.m3u8
@@ -207,8 +207,10 @@ EXTINF:-1 tvtvg-logo="soon" ,Cartoon Network
 http://103.151.43.102:8000/play/a03j/index.m3u8
 EXTINF:-1 tvg-logo="soon" ,Nick
 http://103.151.43.102:8000/play/a03m/index.m3u8
-#EXTINF:-1 tvg-logo="soon" , Nick Jr
+EXTINF:-1 tvg-logo="soon" , Nick Jr
 http://103.151.43.102:8000/play/a03t/index.m3u8
-#EXTINF:-1 tvg-logo="soon" ,Nick HD+ 
+EXTINF:-1 tvg-logo="soon" ,Nick HD+ 
 http://103.151.43.102:8000/play/a03f/index.m3u8
 
+
+Note : All Link Collected by Local Ftp Servers 
