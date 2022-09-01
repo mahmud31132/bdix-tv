@@ -185,23 +185,27 @@ http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg",Romedy Now HD
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-logo="soon" ,Super Hungama
+[ This Line will Be Hidden Due Not working Channels ]
+
+All link Update soon!
+
+EXTINF:-1 tvg-logo="soon" ,Super Hungama
 http://103.151.43.102:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-logo="soon" , Hungama
+EXTINF:-1 tvg-logo="soon" , Hungama
 http://103.151.43.102:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-logo="soon" , Sonic
+EXTINF:-1 tvg-logo="soon" , Sonic
 http://103.151.43.102:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-logo="soon" ,Pogo
+EXTINF:-1 tvg-logo="soon" ,Pogo
 http://103.151.43.102:8000/play/a03q/index.m3u8
-#EXTINF:-1 tvg-logo="soon" , Disney
+EXTINF:-1 tvg-logo="soon" , Disney
 http://103.151.43.102:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-logo=""ext , Discovery Kids
+EXTINF:-1 tvg-logo=""ext , Discovery Kids
 http://103.151.43.102:8000/play/a03u/index.m3u8
-#EXTINF:-1 tvg-logo="soon" , Disney Jr
+EXTINF:-1 tvg-logo="soon" , Disney Jr
 http://103.151.43.102:8000/play/a03o/index.m3u8
-#EXTINF:-1 tvtvg-logo="soon" ,Cartoon Network
+EXTINF:-1 tvtvg-logo="soon" ,Cartoon Network
 http://103.151.43.102:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-logo="soon" ,Nick
+EXTINF:-1 tvg-logo="soon" ,Nick
 http://103.151.43.102:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="soon" , Nick Jr
 http://103.151.43.102:8000/play/a03t/index.m3u8
