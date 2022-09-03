@@ -65,10 +65,10 @@ http://172.16.215.142/hls/ngohd.m3u8
 http://172.16.215.142/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/wild.png" , NAT GEO WILD 
 http://172.16.215.142/hls/wild.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/starhd.jpg" ,Star World HD
-http://172.16.215.142/hls/star-worldhd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/mnx-hd.jpg" ,MNX HD
 http://172.16.215.142/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/starhd.jpg" ,Star World HD
+http://172.16.215.142/hls/star-worldhd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/bbcworld.jpg" ,BBC NEWS
 http://172.16.215.142/hls/bbcworld.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/aljazeera.jpg" ,aljazeera
