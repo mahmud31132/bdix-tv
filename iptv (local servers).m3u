@@ -103,9 +103,6 @@ http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 http://172.16.215.142/hls/colorscineplex.m3u8
 EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonymax.png" ,Sony Max (offline)
 http://172.16.215.142/hls/sonymax.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/stargold2hd.png" ,Star Gold 2
-http://172.16.215.142/hls/stargold2hd.m3u8
-
 EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY-HD-LOCKLE
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY HD
@@ -122,6 +119,8 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 http://172.16.215.142/hls/dis-science.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/stargold.jpg" ,Star gold HD 
 http://172.16.215.142/hls/stargold.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/stargold2hd.png" ,Star Gold 2
+http://172.16.215.142/hls/stargold2hd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/dhin.jpg" ,DhinChak
 http://172.16.215.142/hls/dhin.m3u8
 
