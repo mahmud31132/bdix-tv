@@ -51,7 +51,7 @@ http://172.16.215.142/hls/sonypixhd.m3u8
 http://172.16.215.142/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/starmovies.jpg" ,Star movies 
 http://172.16.215.142/hls/starmovies.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/bbcearth.jpg" ,bbc earth
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/bbcearth.jpg" ,Sony BBC Earth
 http://172.16.215.142/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/mn+.jpg" ,MN+ 
 http://172.16.215.142/hls/mn+.m3u8
