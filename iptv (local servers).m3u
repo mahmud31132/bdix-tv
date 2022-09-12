@@ -51,7 +51,7 @@ http://172.16.215.142/hls/sonypixhd.m3u8
 http://172.16.215.142/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/starmovies.jpg" ,Star movies 
 http://172.16.215.142/hls/starmovies.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/bbcearth.jpg" ,Sony BBC Earth
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/bbcearth.jpg" ,Sony BBC Earth HD
 http://172.16.215.142/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/mn+.jpg" ,MN+ 
 http://172.16.215.142/hls/mn+.m3u8
@@ -225,5 +225,5 @@ http://103.151.43.102:8000/play/a03t/index.m3u8
 EXTINF:-1 tvg-logo="soon" ,Nick HD+ 
 http://103.151.43.102:8000/play/a03f/index.m3u8
 
-
+আপডেট: চ্যানেল নাম ফিক্স করা হয়েছে 
 Note : All Link Collected by Local Ftp Servers 
