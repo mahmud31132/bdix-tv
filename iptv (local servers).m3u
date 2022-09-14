@@ -28,9 +28,20 @@ http://172.16.215.142/hls/channeli.m3u8
 http://172.16.215.142/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" ,Jamuna News 
 http://172.16.215.142/hls/jamuna.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" ,News24
+https://tv.kotha.im/News_24_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/somoytv.jpg" ,Somoy Tv
 http://172.16.215.142/hls/somoy.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg",Shomoy TV (Backup link)
+https://tv.kotha.im/Somoy_TV_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ananda-tv.png" ,Ananda TV (BDIX)
+https://tv.kotha.im/Ananda_TV_SD/index.m3u8
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/asiantv.png" ,Asian TV (bdix)
+https://tv.kotha.im/Asian_TV_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/746jyf8b",independent TV (Backup)
+https://tv.kotha.im/Independent_TV_SD/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.252.253.254/img/nagorik.jpg",Nagorik TV (Backup)
+https://tv.kotha.im/Nagorik_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" ,  Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/Zee_Bangla_Cinema.jpg" ,Zee Bangla Cinema
