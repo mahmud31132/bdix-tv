@@ -212,6 +212,8 @@ http://210.210.155.37/session/f5baa3bc-2472-11ed-8ead-bef5b0d2f38f/qwr9ew/s/s34/
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" , NASA TV (mahmud)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg" , Disney
+http://103.162.136.235:4500/play/a00g/index.m3u8
 [ This Line will Be Hidden Due Not working Channels ]
 
                All link Update soon!
@@ -225,7 +227,7 @@ http://103.151.43.102:8000/play/a03p/index.m3u8
 EXTINF:-1 tvg-logo="soon" ,Pogo
 http://103.151.43.102:8000/play/a03q/index.m3u8
 EXTINF:-1 tvg-logo="soon" , Disney
-http://103.151.43.102:8000/play/a03l/index.m3u8
+http://103.162.136.235:4500/play/a00g/index.m3u8
 EXTINF:-1 tvg-logo=""ext , Discovery Kids
 http://103.151.43.102:8000/play/a03u/index.m3u8
 EXTINF:-1 tvg-logo="soon" , Disney Jr
