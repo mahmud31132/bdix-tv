@@ -121,6 +121,8 @@ EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonymax.png" ,Sony Max (offline)
 http://172.16.215.142/hls/sonymax.m3u8
 EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY-HD-LOCKLE
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg" , Disney
+http://103.162.136.235:4500/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY HD
 http://103.162.136.235:4500/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sony-maxhd.jpg" ,Sony max hd
@@ -212,32 +214,30 @@ http://210.210.155.37/session/f5baa3bc-2472-11ed-8ead-bef5b0d2f38f/qwr9ew/s/s34/
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" , NASA TV (mahmud)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg" , Disney
-http://103.162.136.235:4500/play/a01g/index.m3u8
 [ This Line will Be Hidden Due Not working Channels ]
 Patches:Disney Channel added with temp link..
                All link Update soon!
 
 EXTINF:-1 tvg-logo="soon" ,Super Hungama
 http://103.151.43.102:8000/play/a062/index.m3u8
-EXTINF:-1 tvg-logo="soon" , Hungama
-http://103.151.43.102:8000/play/a03k/index.m3u8
-EXTINF:-1 tvg-logo="soon" , Sonic
-http://103.151.43.102:8000/play/a03p/index.m3u8
-EXTINF:-1 tvg-logo="soon" ,Pogo
-http://103.151.43.102:8000/play/a03q/index.m3u8
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Hungama_TV.svg" , Hungama
+http://103.162.136.235:4500/play/a01h/index.m3u8
+#EXTINF:-1 tvg-logo="soon" , Sonic
+http://103.162.136.235:4500/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="soon" ,Pogo
+http://103.162.136.235:4500/play/a01i/index.m3u8
 EXTINF:-1 tvg-logo="soon" , Disney
 http://103.162.136.235:4500/play/a00g/index.m3u8
 EXTINF:-1 tvg-logo=""ext , Discovery Kids
-http://103.151.43.102:8000/play/a03u/index.m3u8
+http://103.162.136.235:4500/play/a01j/index.m3u8
 EXTINF:-1 tvg-logo="soon" , Disney Jr
-http://103.151.43.102:8000/play/a03o/index.m3u8
+#http://103.162.136.235:4500/play/a01e/index.m3u8
 EXTINF:-1 tvtvg-logo="soon" ,Cartoon Network
 http://103.151.43.102:8000/play/a03j/index.m3u8
-EXTINF:-1 tvg-logo="soon" ,Nick
-http://103.151.43.102:8000/play/a03m/index.m3u8
-EXTINF:-1 tvg-logo="soon" , Nick Jr
-http://103.151.43.102:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="soon" ,Nick
+http://103.162.136.235:4500/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="soon" , Nick Jr
+http://103.162.136.235:4500/play/a01m/index.m3u8
 EXTINF:-1 tvg-logo="soon" ,Nick HD+ 
 http://103.151.43.102:8000/play/a03f/index.m3u8
 
