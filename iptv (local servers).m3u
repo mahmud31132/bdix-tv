@@ -61,6 +61,8 @@ http://172.16.215.142/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/movies-now.jpg" ,Movies Now
 http://172.16.215.142/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/starmovies.jpg" ,Star movies 
+http://jupiter.bdcabletv.com/STAR-MOVIES-SD/video.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/starmovies.jpg" ,Star movies 
 http://172.16.215.142/hls/starmovies.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/bbcearth.jpg" ,Sony BBC Earth HD
 http://172.16.215.142/hls/bbcearth.m3u8
@@ -120,7 +122,7 @@ http://172.16.215.142/hls/sonymax.m3u8
 EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY-HD-LOCKLE
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.162.136.235:4500/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sony-maxhd.jpg" ,Sony max hd
 http://172.16.215.142/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sony-maxhd.jpg" ,Sony max hd
@@ -204,10 +206,11 @@ http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png",Colors(BD)
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="",Thriller 
+http://210.210.155.37/session/f5baa3bc-2472-11ed-8ead-bef5b0d2f38f/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg",Romedy Now HD
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" , NASA TV (mahmud)
-
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 [ This Line will Be Hidden Due Not working Channels ]
 
