@@ -213,9 +213,9 @@ http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" , NASA TV (mahmud)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg" , Disney
-http://103.162.136.235:4500/play/a00g/index.m3u8
+http://103.162.136.235:4500/play/a01g/index.m3u8
 [ This Line will Be Hidden Due Not working Channels ]
-
+Patches:Disney Channel added with temp link..
                All link Update soon!
 
 EXTINF:-1 tvg-logo="soon" ,Super Hungama
