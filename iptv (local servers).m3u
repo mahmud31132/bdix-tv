@@ -192,7 +192,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:- tvg-logo="https://i.imgur.com/Tp3Kead.png",Enter 10 Bangla
 http://172.16.215.142/hls/enterr10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png",Sangeet Bangla(Backup Link)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png",Sangeet Bangla
 http://172.16.215.142/hls/sangeetbangla.m3u8
 
 #EXTINF:-1 tvg-logo="ext" ,R Plus Gold
@@ -216,8 +216,12 @@ http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 http://210.210.155.37/session/f5baa3bc-2472-11ed-8ead-bef5b0d2f38f/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg",Romedy Now HD
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" , NASA TV (mahmud)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" , NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z70Ybsx/prive.jpg",&PRIVE HD
+http://jupiter.bdcabletv.com/AndpriveHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WjKV4L/flix.jpg",&flix HD
+http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
 [ This Line will Be Hidden Due Not working Channels ]
 Patches:Disney Channel added with temp link..
                All link Update soon!
@@ -228,6 +232,8 @@ http://103.151.43.102:8000/play/a062/index.m3u8
 http://103.162.136.235:4500/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Hungama_TV.svg" , Hungama
 http://103.162.136.235:4500/play/a01h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynLw15T/hungamatv.png",Hungama TV
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="soon" , Sonic
 http://103.162.136.235:4500/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="soon" ,Pogo
