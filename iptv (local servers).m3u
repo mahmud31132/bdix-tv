@@ -132,7 +132,7 @@ http://103.162.136.235:4500/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sony-maxhd.jpg" ,Sony max hd
 http://172.16.215.142/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sony-maxhd.jpg" ,Sony max hd
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/zeetv.png" ,ZEE TV
 http://172.16.215.142/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/zeetv.png" ,ZEE TV
