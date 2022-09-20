@@ -113,8 +113,8 @@ http://172.16.215.142/hls/andpictures.m3u8
 http://172.16.215.142/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/zeecinemahd.jpg" ,Zee Cinema HD
 http://172.16.215.142/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/zeecinemahd.jpg" ,Zee Cinema HD
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png",Zee Cinema HD
+http://103.162.136.235:4500/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/starplus.jpg" ,star Plus HD
 http://172.16.215.142/hls/starplus.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/zvhYfrbP/download-15.jpg",Star Bharat HD
@@ -142,7 +142,7 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/dis-science.png" , Discovery Science
 http://172.16.215.142/hls/dis-science.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/stargold.jpg" ,Star gold HD 
-http://172.16.215.142/hls/stargold.m3u8
+http://familyplus.me:8080/live/younes123/123456/72051.ts
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/stargold2hd.png" ,Star Gold 2
 http://172.16.215.142/hls/stargold2hd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/dhin.jpg" ,DhinChak
@@ -150,8 +150,8 @@ http://172.16.215.142/hls/dhin.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/Sony-six-hd.png" ,Sony Six HD
 http://172.16.215.142/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/euro.jpg" ,Eurosports
-http://172.16.215.142/hls/euro.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png",STAR GOLD HD
+http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/Star_Sports_Select_1_HD.jpg" ,Star Sports Select 1
 http://172.16.215.142/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/star_sports3.jpg" ,Star Sports 3
