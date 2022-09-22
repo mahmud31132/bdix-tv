@@ -201,7 +201,7 @@ http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hFzksx3/dlL02Rv.png",Sonic Nickeloden Hindi
 http://103.162.136.235:4500/play/a01k/index.m3u
 #EXTINF:-1 tvg-logo="soon" , Disney
-http://103.162.136.235:4500/play/a00g/index.m3u8
+http://103.179.246.243:8000/play/a01y
 #EXTINF:-1 tvg-logo="i.postimg.cc/PxW7xqhg/download.png" , Disney Jr
 http://103.179.246.243:8000/play/a020
 #EXTINF:-1 tvtvg-logo="i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" ,Cartoon Network hindi
