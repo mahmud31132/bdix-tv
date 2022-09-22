@@ -63,6 +63,10 @@ http://103.16.24.54:8080/channel4/index.m3u8
 http://103.16.24.54:8080/channel5/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonypixhd.jpg" ,Sony pix
 http://103.16.24.54:8080/channel2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z70Ybsx/prive.jpg",&PRIVE HD
+http://jupiter.bdcabletv.com/AndpriveHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WjKV4L/flix.jpg",&flix HD
+http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/movies-now.jpg" ,Movies Now
 http://172.16.215.142/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/starmovies.jpg" ,Star movies 
@@ -249,12 +253,5 @@ http://210.210.155.37/session/f5baa3bc-2472-11ed-8ead-bef5b0d2f38f/qwr9ew/s/s34/
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" , NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z70Ybsx/prive.jpg",&PRIVE HD
-http://jupiter.bdcabletv.com/AndpriveHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3WjKV4L/flix.jpg",&flix HD
-http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
 EXTINF:-1 tvg-logo="soon" ,Super Hungama
 http://103.151.43.102:8000/play/a062/index.m3u8
-
-আপডেট: চ্যানেল নাম ফিক্স করা হয়েছে 
-Note : All Link Collected by Local Ftp Servers 
