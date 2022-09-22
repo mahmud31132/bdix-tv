@@ -1,4 +1,7 @@
-#EXTM3U
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+#EXTINF url-tvg="https://www.tsepg.cf/epg.xml.gz"
+#EXTINF url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz"
+
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/stersports1hd.jpg",Star Sports hd 1
 http://103.16.24.54:8080/channel1/index.m3u8
 #EXTINF:-1 tvg-logo="null",Show-Time HD 4K
