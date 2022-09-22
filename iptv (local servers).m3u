@@ -1,10 +1,11 @@
-#EXTM3U
-[ এই লিংক গুলো বিভিন্ন ওয়েবসাইট থেকে কালেক্ট করা হয়েছে! পার্সোনাল উস করার জন্য কেউ নিজের নামে চালিয়ে দিবেন না !! এইটা বিক্রি করার জন্য নয় ধন্যবাদ !]
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/stersports1hd.jpg",Star Sports hd 1
+http://103.16.24.54:8080/channel1/index.m3u8
 #EXTINF:-1 tvg-logo="null",Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY HD
 http://172.16.215.142/hls/sonyen.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/Sony_Aath.png" ,Sony Aath (temp)
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/Sony_Aath.png" ,Sony Aath
 http://jupiter.bdcabletv.com/Sony_A_ath/video.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/indepen.png" group-title="Bangladeshi" , Independent tv
 http://172.16.215.142/hls/indepen.m3u8
@@ -56,12 +57,12 @@ http://172.16.215.142/hls/colore-bangla-cinema.m3u8
 http://172.16.215.142/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/colorsbangla.jpg" ,Colors Bengali HD
 http://172.16.215.142/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/zeebanglahd.jpg" , Zee bangla
-http://172.16.215.142/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.215.142/img/starjalsha.jpg" , Star Jalsha
-http://172.16.215.142/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/zeebanglahd.jpg" , Zee bangla HD
+http://103.16.24.54:8080/channel4/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/starjalsha.jpg" , Star Jalsha HD
+http://103.16.24.54:8080/channel5/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonypixhd.jpg" ,Sony pix
-http://172.16.215.142/hls/sonypixhd.m3u8
+http://103.16.24.54:8080/channel2/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/movies-now.jpg" ,Movies Now
 http://172.16.215.142/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/starmovies.jpg" ,Star movies 
@@ -108,7 +109,7 @@ http://172.16.215.142/hls/bindass.m3u8
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU",Music India(BD2)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/andpictures-hd.jpg" ,And Picture HD
-http://172.16.215.142/hls/andpictures.m3u8
+http://103.16.24.54:8080/channel5/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/colors-tv-hd.jpg" , Colors HD
 http://172.16.215.142/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/zeecinemahd.jpg" ,Zee Cinema HD
@@ -128,7 +129,11 @@ http://172.16.215.142/hls/sonymax.m3u8
 EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY-HD-LOCKLE
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg" , Disney
-http://103.162.136.235:4500/play/a01g/index.m3u8
+http://103.162.136.235:4500/play/a01g/index.Kids
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMR1b7hH/download-10.png",Pogo
+http://103.162.136.235:4500/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="i.postimg.cc/JhzhstL2/swM1L4e.png" , Discovery Kids
+http://103.162.136.235:4500/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sonyen.png" ,SONY HD
 http://103.162.136.235:4500/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sony-maxhd.jpg" ,Sony max hd
@@ -149,7 +154,7 @@ http://172.16.215.142/hls/stargold2hd.m3u8
 http://172.16.215.142/hls/dhin.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/Sony-six-hd.png" ,Sony Six HD
-http://172.16.215.142/hls/sonysix.m3u8
+http://103.16.24.54:8080/channel7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png",STAR GOLD HD
 http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/Star_Sports_Select_1_HD.jpg" ,Star Sports Select 1
@@ -183,6 +188,27 @@ http://172.16.215.142/hls/nick.m3u8
 http://172.16.215.142/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/pogo.jpg" ,Pogo Hindi
 http://172.16.215.142/hls/pogo.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/pogo.jpg" ,Pogo hindi
+http://103.162.136.235:4500/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Hungama_TV.svg" , Hungama
+http://103.162.136.235:4500/play/a01h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynLw15T/hungamatv.png",Hungama TV
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hFzksx3/dlL02Rv.png",Sonic Nickeloden Hindi
+http://103.162.136.235:4500/play/a01k/index.m3u
+#EXTINF:-1 tvg-logo="soon" , Disney
+http://103.162.136.235:4500/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="i.postimg.cc/PxW7xqhg/download.png" , Disney Jr
+http://103.179.246.243:8000/play/a020
+#EXTINF:-1 tvtvg-logo="i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" ,Cartoon Network hindi
+http://103.179.246.243:8000/play/a01w
+#EXTINF:-1 tvg-logo="http://172.16.215.142/img/nick.jpg" ,Nick
+http://103.162.136.235:4500/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="i.postimg.cc/KzLkN1yF/nick-jr-preview.png"" , Nick Jr
+http://103.162.136.235:4500/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="i.postimg.cc/bvy34jwK/download-7.png" ,Nick HD+ 
+http://103.179.246.243:8000/play/a01c
+
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/madani.jpg" ,Madani tv Bangla
 http://172.16.215.142/hls/madani.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/quraantv.jpg" ,Quraan tv
@@ -227,36 +253,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 http://jupiter.bdcabletv.com/AndpriveHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3WjKV4L/flix.jpg",&flix HD
 http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
-[ This Line will Be Hidden Due Not working Channels ]
-Patches:Disney Channel added with temp link..
-               All link Update soon!
-
 EXTINF:-1 tvg-logo="soon" ,Super Hungama
 http://103.151.43.102:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-logo="soon" ,Pogo
-http://103.162.136.235:4500/play/a01i/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Hungama_TV.svg" , Hungama
-http://103.162.136.235:4500/play/a01h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynLw15T/hungamatv.png",Hungama TV
-http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hFzksx3/dlL02Rv.png",Sonic Nickeloden Hindi
-http://103.162.136.235:4500/play/a01k/index.m3u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMR1b7hH/download-10.png",Pogo
-http://103.162.136.235:4500/play/a01i/index.m3u8
-#EXTINF:-1 tvg-logo="n" , Discovery Kids
-http://103.162.136.235:4500/play/a01j/index.m3u8
-EXTINF:-1 tvg-logo="soon" , Disney
-http://103.162.136.235:4500/play/a00g/index.m3u8
-#EXTINF:-1 tvg-logo="soon" , Disney Jr
-http://103.162.136.235:4500/play/a01e/index.m3u8
-EXTINF:-1 tvtvg-logo="soon" ,Cartoon Network
-http://103.151.43.102:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-logo="soon" ,Nick
-http://103.162.136.235:4500/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="soon" , Nick Jr
-http://103.162.136.235:4500/play/a01m/index.m3u8
-EXTINF:-1 tvg-logo="soon" ,Nick HD+ 
-http://103.151.43.102:8000/play/a03f/index.m3u8
 
 আপডেট: চ্যানেল নাম ফিক্স করা হয়েছে 
 Note : All Link Collected by Local Ftp Servers 
