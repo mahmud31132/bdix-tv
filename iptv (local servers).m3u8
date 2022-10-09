@@ -181,7 +181,7 @@ http://172.16.215.142/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/sony_ten_1.jpg" ,Sony Ten 1 HD 
 http://172.16.215.142/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/tsports.jpg" ,T sports
-http://172.16.215.142/hls/t-sports.m3u8
+http://iptv.hplink.com.bd:8080/hls/sportss.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/ten_sports.jpg" ,Ten Sports HD PK
 http://172.16.215.142/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.215.142/img/ptv.jpg" ,PTV Sports 
